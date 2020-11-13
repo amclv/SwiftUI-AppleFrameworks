@@ -15,6 +15,7 @@
 		A88E5702255E140700251A20 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88E5701255E140700251A20 /* FrameworkDetailView.swift */; };
 		A88E5705255E15A100251A20 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88E5704255E15A100251A20 /* AFButton.swift */; };
 		A88E5708255E478200251A20 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88E5707255E478200251A20 /* FrameworkGridViewModel.swift */; };
+		A88E570B255EEE2800251A20 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A88E570A255EEE2800251A20 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A88E5701255E140700251A20 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		A88E5704255E15A100251A20 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		A88E5707255E478200251A20 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		A88E570A255EEE2800251A20 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A88E5701255E140700251A20 /* FrameworkDetailView.swift */,
 				A88E5707255E478200251A20 /* FrameworkGridViewModel.swift */,
 				A88E5704255E15A100251A20 /* AFButton.swift */,
+				A88E570A255EEE2800251A20 /* SafariView.swift */,
 			);
 			path = "SwiftUI-AppleFrameworks";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				A88E5705255E15A100251A20 /* AFButton.swift in Sources */,
 				A88E56E6255DE1A600251A20 /* SwiftUI_AppleFrameworksApp.swift in Sources */,
 				A88E5708255E478200251A20 /* FrameworkGridViewModel.swift in Sources */,
+				A88E570B255EEE2800251A20 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
